@@ -1,8 +1,12 @@
 {
   
-  "buildpacks": [
+ "buildpacks": [
     {
-      heroku/java
+      "url": "https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-java"
+      
+    },
+    {
+      "url": "heroku/java"
     }
   ],
   "environments": {
