@@ -1,0 +1,15 @@
+{
+  
+  "buildpacks": [
+    {
+      heroku/java
+    }
+  ],
+  "environments": {
+    "test": {
+      "scripts": {
+        "test": "bundle exec rake test"
+      }
+    }
+  }
+}
