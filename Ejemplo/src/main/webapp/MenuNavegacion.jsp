@@ -11,6 +11,10 @@
 
 <ul class="nav justify-content-end nav-pills nav-fill">
   <li class="nav-item">
+   <a href="index.jsp">Inicio</a>
+  </li>
+  
+  <li class="nav-item">
    <a href="HelloWorld.jsp">HelloWorld  </a>
   </li>
   <li class="nav-item">
@@ -24,5 +28,8 @@
   </li>
   <li class="nav-item">
     <a href="CteFormulario.jsp">Formulario </a>
+  </li>
+  <li class="nav-item">
+    <a href="CteModulo.jsp">Uso de modulos.</a>
   </li>
 </ul>
